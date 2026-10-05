@@ -1,0 +1,76 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Environment Variables
+
+.env
+.env.*
+
+# Model Files
+
+*.pkl
+*.joblib
+*.pickle
+
+# Data Files
+
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# OS Generated Files
+
+.DS_Store
+Thumbs.db
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+
+# Testing / Coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Miscellaneous
+
+*.bak
+*.swp
+*.swo
